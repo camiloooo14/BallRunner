@@ -44,34 +44,14 @@ BallRunner/
 │   ├── Scenes/
 │   ├── Scripts/
 │   ├── Shaders/
-│   └── Textures/
+│   ├── Textures/
+│   ├── Sounds/
+│   └── Prefabs/
 ├── ProjectSettings/
+├── Library/
+├── Packages/
 └── README.md
 ```
-
-## 🚀 Cómo Jugar
-
-1. Usa las flechas del teclado para mover la esfera hacia los lados.
-2. Evita los obstáculos y mantén tu velocidad para no ser atrapado.
-3. Llega a la línea de meta para ganar el nivel.
-
-## ⚙️ Requisitos del Sistema
-
-* Unity 2021 o superior.
-* Sistema operativo Windows, macOS o Linux.
-* Tarjeta gráfica compatible con DirectX 11 o superior.
-
-## 🛠️ Instalación y Configuración
-
-1. Clona este repositorio:
-
-```
-git clone https://github.com/tu-usuario/BallRunner.git
-```
-
-2. Abre el proyecto en Unity.
-3. Asegúrate de importar todos los paquetes requeridos.
-4. Presiona **Play** para iniciar el juego.
 
 ## 📚 Recursos Utilizados
 
@@ -83,14 +63,3 @@ Este proyecto fue desarrollado con la ayuda de los siguientes recursos:
 * [Obstacle Generation - YouTube](https://youtu.be/6CECPjNAoZw?si=gZRmIPO8UM1Sgkr4)
 * [Unity Game Dev - YouTube](https://www.youtube.com/watch?v=BxcBejHamMM)
 
-## 🌐 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el juego, no dudes en hacer un pull request o abrir un issue.
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Siéntete libre de modificar y distribuir el código.
-
-## 📧 Contacto
-
-Si tienes alguna pregunta o comentario, puedes contactarme a través de [tu-email@dominio.com](mailto:tu-email@dominio.com).
