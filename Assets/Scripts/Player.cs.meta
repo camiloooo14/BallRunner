@@ -1,2 +1,13 @@
 fileFormatVersion: 2
 guid: dccdb3d7047563346bc3200b9c63df0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winTextObject: {instanceID: 0}
+  - shaderMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

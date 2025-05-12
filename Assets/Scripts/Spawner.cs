@@ -19,7 +19,7 @@ public class LowsSpawner : MonoBehaviour
             Vector3 spawnPos = new Vector3(UnityEngine.Random.Range(minMaxXPos.x, minMaxXPos.y), 1.08F, zValue + 260f);
 
             Instantiate(LowsPrefab, spawnPos, Quaternion.identity);
-            zValue += 8f;
+            zValue += 7;
         }
     }
 }

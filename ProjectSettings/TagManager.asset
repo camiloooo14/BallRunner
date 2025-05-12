@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Lows
   - Enemy
+  - Afuera
+  - Hueco
   layers:
   - Default
   - TransparentFX

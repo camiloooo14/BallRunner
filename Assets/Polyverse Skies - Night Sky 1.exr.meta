@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-guid: fa41734a337674542975482c8fe96ea1
-AssetOrigin:
-  serializedVersion: 1
-  productId: 107400
-  packageName: FREE Skybox Extended Shader
-  packageVersion: 2.2.0
-  assetPath: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies
-    - Night Sky.exr
-  uploadId: 734105
+guid: 1b8dc790d0540bb4f94332ed042d3325
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -66,7 +58,7 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
-  textureShape: 2
+  textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
